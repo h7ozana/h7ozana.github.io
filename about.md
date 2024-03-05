@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+방문해 주셔서 감사합니다!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[neyene@naver.com](mailto:neyene@naver.com)
+
+### Blog
+
+[https://velog.io/@lesserafim]
