@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Blog
 
-[https://velog.io/@lesserafim]
+[https://velog.io/@lesserafim](https://velog.io/@lesserafim)
